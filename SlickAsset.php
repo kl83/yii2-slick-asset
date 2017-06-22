@@ -14,7 +14,7 @@ class SlickAsset extends \yii\web\AssetBundle
     public function init()
     {
         $this->js = [
-            'slick'.( YII_DEBUG ? '.min' : '' ).'.js',
+            'slick'.( YII_DEBUG ? '' : '.min' ).'.js',
         ];
     }
 }
