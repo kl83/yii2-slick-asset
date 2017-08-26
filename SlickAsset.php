@@ -1,5 +1,5 @@
 <?php
-namespace kl83\slickasset;
+namespace kl83\assets;
 
 class SlickAsset extends \yii\web\AssetBundle
 {

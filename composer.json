@@ -13,6 +13,6 @@
         "bower-asset/slick-carousel": "1.*"
     },
     "autoload": {
-        "psr-4": { "kl83\\slickasset\\": "" }
+        "psr-4": { "kl83\\assets\\": "" }
     }
 }
